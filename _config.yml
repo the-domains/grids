@@ -1,0 +1,28 @@
+name: Grids
+favicon: null
+layout_spectrum: 0.5905587135348469
+typography_spectrum: 0.5385654759593308
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3805152312852442
+  lightness: 0.7150377903599292
+  saturation: 0.03888412844389677
+  rhythmicContrast: 0.1922108402941376
+purpose: []
